@@ -1,0 +1,22 @@
+<agenda>
+    <contacto>
+        <nombre>Tajuya</nombre>
+        <apellidos>Pérez Baldosa</apellidos>
+        <calle>Lola Juárez Nini</calle>
+        <telefonos>
+            <casa>922333444</casa>
+            <movil>666777888</móvil>
+            <trabajo>76845328</trabajo>
+        </telefonos>
+    </contacto>
+    <contacto>
+        <nombre>Chor</nombre>
+        <apellidos>Ajím Ajám</apellidos>
+        <calle>Mayor</calle>
+        <telefonos>
+            <casa>944333222</casa>
+            <movil>687465387</móvil>
+            <trabajo>785325986</trabajo>
+        </telefonos>
+    </contacto>
+</agenda>
