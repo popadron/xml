@@ -1,0 +1,29 @@
+<DAW>
+  <asignaturas>
+    <lnd>
+      <horas_semanales cantidad="4"/>
+      <caracter>Obligatorio</caracter>
+      <fecha_imparticion>15 de septiembre de 2010 y el 30 de junio de 2022</fecha_imparticion>
+    </lnd>
+  <asignaturas>
+  <alumnos>
+    <nombre>Ana</nombre>
+    <apellidos>Fernández Gutiérrez</apellidos>
+    <nif>16965696L</nif>
+    <telefono>789654321</telefono>
+    <email>ana.fdezgtrrez@hotmail.com</email>
+    <direccion>C/ El Percebe, 13 de Santander</direccion>
+    <cp>39302</cp>
+    <faltas_asistencia>N/A<faltas_asistencia>
+    <notas>N/A</notas>
+      
+    <nombre>Pepito</nombre>
+    <apellidos>Grillo</apellidos>
+    <nif>98765432H</nif>
+    <telefono>656566555</telefono>
+    <email>yhyh@yahoo.com,</email>
+    <direccion>Avd. El Pez, 5 de Suances</direccion>
+    <cp>39401</cp>
+    <faltas_asistencia>0<faltas_asistencia>
+    <notas>apto</notas>
+</DAW>
